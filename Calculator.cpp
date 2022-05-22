@@ -15,7 +15,7 @@ int main() {
   switch(op) {
 
     case '+':
-      cout << num1 << " + " << num2 << " = " << num1 + num2; //for sum 
+      cout << num1 << " + " << num2 << " = " << num1 + num2; //for addition
       break;
 
     case '-':
