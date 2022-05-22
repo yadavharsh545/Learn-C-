@@ -6,6 +6,8 @@ int main() {
   char op;
   float num1, num2;
 
+  //This is a calculator developed using C++ 
+
   cout << "Enter operator: +, -, *, /: ";
   cin >> op;
 
