@@ -15,19 +15,19 @@ int main() {
   switch(op) {
 
     case '+':
-      cout << num1 << " + " << num2 << " = " << num1 + num2;
+      cout << num1 << " + " << num2 << " = " << num1 + num2; //for sum 
       break;
 
     case '-':
-      cout << num1 << " - " << num2 << " = " << num1 - num2;
+      cout << num1 << " - " << num2 << " = " << num1 - num2; //for subtraction
       break;
 
     case '*':
-      cout << num1 << " * " << num2 << " = " << num1 * num2;
+      cout << num1 << " * " << num2 << " = " << num1 * num2; //for multiplication
       break;
 
     case '/':
-      cout << num1 << " / " << num2 << " = " << num1 / num2;
+      cout << num1 << " / " << num2 << " = " << num1 / num2; //for division
       break;
 
     default:
